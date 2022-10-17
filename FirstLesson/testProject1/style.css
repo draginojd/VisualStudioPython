@@ -1,0 +1,17 @@
+body {
+    background-color: blue;
+}
+
+.box1 {
+    background-color: black;
+    margin: auto;
+    padding: auto;
+
+    width: auto;
+    height: 55px;
+}
+
+.navButton {
+    background-color: aliceblue;
+    list-style-type: none;
+}
